@@ -3,10 +3,10 @@
 
 our $VERSION = '0.1';
 our %IRSSI = (
-    authors     => 'Kurt Snieckus',
+    authors     => 'Mistakes Consortium',
     contact     => 'ksnieck@alum.wpi.edu',
     name        => 'web_if',
-    description => 'The irssi-script side of a web interface to irssi',
+    description => 'Hacky web interface to irssi, requires other external scripts',
     license     => 'GPLv3',
     url         => 'http://github.com/ksnieck/irssi-web_if/',
 );
